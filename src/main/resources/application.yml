@@ -1,0 +1,12 @@
+## YAML Template.
+---
+login:
+    username: aamitgunjal@gmail.com
+    password: '#8657785100'
+    
+settings:
+    fromMail: aamitgunjal@gmail.com
+    smtp:
+        port: 587
+        server: smtp.gmail.com
+    
